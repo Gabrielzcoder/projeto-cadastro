@@ -125,7 +125,7 @@ form > input[type=submit]:active {
 }
 
 form > a {
-    padding-top: 7px;
+    padding-top: 10px;
     display: block;
     text-align: center;
     font-size: .8em;
